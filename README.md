@@ -16,7 +16,7 @@ MySQL - DB Name  : tsm.sql
 - Separate Route File for API & Web App
 
 
-### Packges 
+### Package, Library & Framework 
 
 
 -   [laravel Sanctum](https://laravel.com/docs/11.x/sanctum) | API authentication
