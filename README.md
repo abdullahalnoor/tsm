@@ -28,11 +28,3 @@ MySQL - DB Name  : tsm.sql
 - [Bootstrap](https://getbootstrap.com/)
 
 
-
-## Learning Laravel
-
-
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
